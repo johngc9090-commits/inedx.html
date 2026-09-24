@@ -1,7 +1,9 @@
-echo "# inedx.html" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/johngc9090-commits/inedx.html.git
-git push -u origin main
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>My App</h1>
+    <p>This script automates tasks.</p>
+    <a href="privacy.html">Privacy Policy</a>
+  </body>
+</html>
